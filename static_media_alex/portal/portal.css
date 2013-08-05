@@ -1,0 +1,115 @@
+/*padding for main three boxes*/
+.boxes_padding
+{
+	padding-top:130px;
+	padding-bottom:130px;
+}
+/*padding for details boxes*/
+.details_boxes_padding
+{
+	padding-top:100px;
+	padding-bottom:100px;
+}
+.restart_box_padding
+{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+/*font style for every boxes*/
+.boxes_font_style
+{
+	font-weight:bold;
+	text-align:center;
+	font-size:40px;
+}
+/*cursor pointer for every boxes*/
+.boxes_cursor_pointer
+{
+	cursor:pointer;
+}
+
+/*main page top three boxes color*/
+.help_color
+{
+	background:#FFFF00;
+}
+.hello_color
+{
+	background:#99FF99;
+}
+.uncomfortable_color
+{
+	background:#FF4D4D;
+}
+/*main page redo boxes color*/
+.redo_color
+{
+	background:#00CCFF;
+}
+.restart_color
+{
+	background:#FF8533;
+}
+
+/*six details boxes color*/
+.details_1_color
+{
+	background:#FFFF4D;
+}
+.details_2_color
+{
+	background:#FF6666;
+}
+.details_3_color
+{
+	background:#3366FF;
+}
+.details_4_color
+{
+	background:#99FF99;
+}
+.details_5_color
+{
+	background:#00CCFF;
+}
+.details_6_color
+{
+	background:gray	;
+}
+
+
+.big_div_help
+{
+	display:none;
+}
+
+.big_div_hello
+{
+	display:none;
+}
+
+.big_div_uncomfortable
+{
+	display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
